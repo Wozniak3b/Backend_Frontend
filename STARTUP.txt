@@ -1,0 +1,14 @@
+HOW TO START A PROJECT
+----------------------------
+
+IN BACKEND DIRECTORY
+-------------------------------------
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+uvicorn main:app --reload
+
+IN FRONTEND -> APP DIRECTORY
+-------------------------------------
+(if we have json and other things installed)
+npm start

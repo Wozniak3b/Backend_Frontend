@@ -1,0 +1,11 @@
+bcrypt
+cryptography
+fastapi
+python-jose
+python-multipart
+sqlalchemy
+uvicorn
+passlib
+social-auth-core
+pymysql
+#not sure about sociial-auth
